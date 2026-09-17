@@ -1,0 +1,458 @@
+receipt_date,cust_id,customer,ref_inv,amount
+2026-01-02,C1026,Parma Community College,INV-253107,8344.9
+2026-01-02,C1003,Cardinal Hospitality Group LLC,INV-253128,8368.16
+2026-01-02,C1022,Medina Auto Group,INV-253197,9207.23
+2026-01-02,C1026,Parma Community College,INV-253220,2226.47
+2026-01-02,C1038,Westlake Commercial Cleaning Company,INV-253227,13212.54
+2026-01-02,C1010,Forest City Hotels and Resorts,INV-253247,23775.07
+2026-01-02,C1003,Cardinal Hospitality Group LLC,INV-253262,40610.78
+2026-01-02,C1003,Cardinal Hospitality Group LLC,INV-253284,3164.61
+2026-01-02,C1040,Youngstown Metal Works Inc.,INV-253303,1355.71
+2026-01-02,C1023,Midwest Stadium Services Inc.,see remit,6130.86
+2026-01-02,C1025,Oak Ridge Office Parks,see remit,2390.53
+2026-01-02,C1028,Portage Cold Storage Company,INV-253328,30601.24
+2026-01-02,C1030,Sandusky Marine and Supply,INV-253341,22643.94
+2026-01-02,C1035,Twinsburg Industrial Park LLC,INV-253369,8013.49
+2026-01-02,C1024,North Coast Restaurants LLC,INV-253382,14583.1
+2026-01-05,C1002,Bayview Medical Center Inc.,INV-253068,9743.04
+2026-01-05,C1002,Bayview Medical Center Inc.,INV-253099,10976.86
+2026-01-05,C1033,Summit Healthcare Group Inc.,INV-253108,27066.97
+2026-01-05,C1026,Parma Community College,INV-253123,5905.97
+2026-01-05,C1033,Summit Healthcare Group Inc.,INV-253141,7505.25
+2026-01-05,C1015,Heritage Food Services Inc.,INV-253177,5948.1
+2026-01-05,C1026,Parma Community College,INV-253181,8820.32
+2026-01-05,C1002,Bayview Medical Center Inc.,INV-253192,10350.93
+2026-01-05,C1018,Kent Valley Hospital,INV-253216,5959.02
+2026-01-05,C1009,Fairlawn Public Schools,INV-253230,2587.12
+2026-01-05,C1038,Westlake Commercial Cleaning Company,INV-253242,7136.91
+2026-01-05,C1008,Evergreen Senior Living Inc.,INV-253246,14345.73
+2026-01-05,C1026,Parma Community College,INV-253254,9540.35
+2026-01-05,C1040,Youngstown Metal Works Inc.,see remit,13625.81
+2026-01-05,C1002,Bayview Medical Center Inc.,INV-253272,4484.65
+2026-01-05,C1009,Fairlawn Public Schools,INV-253275,3515.22
+2026-01-05,C1038,Westlake Commercial Cleaning Company,INV-253300,11772.26
+2026-01-05,C1040,Youngstown Metal Works Inc.,INV-253304,6692.27
+2026-01-05,C1035,Twinsburg Industrial Park LLC,INV-253343,7408.86
+2026-01-05,C1008,Evergreen Senior Living Inc.,INV-253349,12948.84
+2026-01-05,C1011,Garfield Industrial Company,INV-253350,11351.93
+2026-01-05,C1025,Oak Ridge Office Parks,INV-253355,23647.25
+2026-01-05,C1012,Great Lakes Logistics Inc.,INV-253365,4239.29
+2026-01-05,C1030,Sandusky Marine and Supply,INV-253383,17114.55
+2026-01-05,C1005,Clearwater Janitorial Company,INV-253392,11696.03
+2026-01-05,C1011,Garfield Industrial Company,INV-253395,19899.44
+2026-01-05,C1027,Pinnacle Building Services Inc.,INV-253420,5503.97
+2026-01-06,C1009,Fairlawn Public Schools,INV-253163,3684.2
+2026-01-06,C1026,Parma Community College,INV-253199,95000.0
+2026-01-06,C1038,Westlake Commercial Cleaning Company,INV-253203,3720.87
+2026-01-06,C1018,Kent Valley Hospital,INV-253217,3945.13
+2026-01-06,C1026,Parma Community College,INV-253236,12740.09
+2026-01-06,C1003,Cardinal Hospitality Group LLC,INV-253296,10452.17
+2026-01-06,C1011,Garfield Industrial Company,INV-253364,2421.78
+2026-01-06,C1040,Youngstown Metal Works Inc.,INV-253387,11376.35
+2026-01-06,C1040,Youngstown Metal Works Inc.,INV-253412,3732.86
+2026-01-06,C1004,Cedar Point Facility Services,INV-253414,8891.55
+2026-01-07,C1026,Parma Community College,INV-253222,9383.27
+2026-01-07,C1002,Bayview Medical Center Inc.,INV-253282,12581.95
+2026-01-07,C1001,Allegheny Property Management LLC,INV-253294,1960.81
+2026-01-07,C1003,Cardinal Hospitality Group LLC,INV-253308,20905.45
+2026-01-07,C1028,Portage Cold Storage Company,see remit,18845.49
+2026-01-07,C1035,Twinsburg Industrial Park LLC,INV-253321,4668.27
+2026-01-07,C1002,Bayview Medical Center Inc.,INV-253347,11321.82
+2026-01-07,C1011,Garfield Industrial Company,INV-253351,13045.76
+2026-01-07,C1035,Twinsburg Industrial Park LLC,INV-253370,22686.67
+2026-01-07,C1011,Garfield Industrial Company,INV-253377,19543.75
+2026-01-08,C1005,Clearwater Janitorial Company,INV-253264,9826.56
+2026-01-08,C1022,Medina Auto Group,INV-253267,4788.77
+2026-01-08,C1015,Heritage Food Services Inc.,INV-253277,7954.99
+2026-01-08,C1011,Garfield Industrial Company,INV-253311,26216.19
+2026-01-08,C1030,Sandusky Marine and Supply,INV-253318,12950.41
+2026-01-08,C1029,Riverside Fitness Clubs LLC,INV-253329,2103.48
+2026-01-08,C1011,Garfield Industrial Company,INV-253376,3034.23
+2026-01-08,C1038,Westlake Commercial Cleaning Company,INV-253403,1470.97
+2026-01-08,C1011,Garfield Industrial Company,INV-253439,4150.0
+2026-01-08,C1023,Midwest Stadium Services Inc.,INV-253450,1832.31
+2026-01-08,C1030,Sandusky Marine and Supply,INV-253461,11806.58
+2026-01-08,C1025,Oak Ridge Office Parks,INV-253478,6121.14
+2026-01-09,C1033,Summit Healthcare Group Inc.,INV-253165,16157.15
+2026-01-09,C1026,Parma Community College,INV-253221,3622.55
+2026-01-09,C1015,Heritage Food Services Inc.,INV-253314,32786.56
+2026-01-09,C1005,Clearwater Janitorial Company,see remit,3901.96
+2026-01-09,C1033,Summit Healthcare Group Inc.,INV-253358,5423.31
+2026-01-09,C1040,Youngstown Metal Works Inc.,INV-253360,12703.56
+2026-01-09,C1003,Cardinal Hospitality Group LLC,INV-253362,12304.56
+2026-01-09,C1001,Allegheny Property Management LLC,INV-253390,4968.37
+2026-01-09,C1027,Pinnacle Building Services Inc.,INV-253399,6831.5
+2026-01-09,C1023,Midwest Stadium Services Inc.,INV-253419,39819.61
+2026-01-12,C1036,University Circle Services,INV-253142,11906.86
+2026-01-12,C1032,Stark County Services,INV-253200,3516.44
+2026-01-12,C1032,Stark County Services,INV-253223,3857.97
+2026-01-12,C1018,Kent Valley Hospital,INV-253232,18550.32
+2026-01-12,C1026,Parma Community College,INV-253268,18926.95
+2026-01-12,C1022,Medina Auto Group,see remit,1056.46
+2026-01-12,C1002,Bayview Medical Center Inc.,INV-253295,26331.17
+2026-01-12,C1008,Evergreen Senior Living Inc.,INV-253309,11952.77
+2026-01-12,C1028,Portage Cold Storage Company,INV-253316,6087.31
+2026-01-12,C1035,Twinsburg Industrial Park LLC,INV-253331,25796.54
+2026-01-12,C1002,Bayview Medical Center Inc.,INV-253348,47517.68
+2026-01-12,C1012,Great Lakes Logistics Inc.,INV-253352,15958.44
+2026-01-12,C1016,Highland Manufacturing Company,INV-253353,2403.77
+2026-01-12,C1038,Westlake Commercial Cleaning Company,INV-253359,7325.32
+2026-01-12,C1015,Heritage Food Services Inc.,INV-253367,4626.73
+2026-01-12,C1035,Twinsburg Industrial Park LLC,INV-253371,13095.92
+2026-01-12,C1015,Heritage Food Services Inc.,INV-253378,1659.31
+2026-01-12,C1035,Twinsburg Industrial Park LLC,see remit,13595.33
+2026-01-12,C1040,Youngstown Metal Works Inc.,INV-253388,26161.99
+2026-01-12,C1003,Cardinal Hospitality Group LLC,INV-253391,16377.41
+2026-01-12,C1023,Midwest Stadium Services Inc.,INV-253406,939.72
+2026-01-12,C1028,Portage Cold Storage Company,INV-253408,23842.66
+2026-01-12,C1040,Youngstown Metal Works Inc.,INV-253411,1747.1
+2026-01-12,C1010,Forest City Hotels and Resorts,INV-253416,31601.82
+2026-01-12,C1035,Twinsburg Industrial Park LLC,INV-253422,10949.79
+2026-01-12,C1011,Garfield Industrial Company,INV-253427,2062.94
+2026-01-12,C1014,Harborview Apartments LLC,INV-253428,5087.85
+2026-01-12,C1035,Twinsburg Industrial Park LLC,INV-253453,10987.04
+2026-01-12,C1030,Sandusky Marine and Supply,INV-253460,29274.41
+2026-01-12,C1029,Riverside Fitness Clubs LLC,see remit,5865.1
+2026-01-12,C1040,Youngstown Metal Works Inc.,INV-253497,4530.11
+2026-01-12,C1012,Great Lakes Logistics Inc.,INV-253499,2976.84
+2026-01-13,C1040,Youngstown Metal Works Inc.,INV-252616,11375.8
+2026-01-13,C1038,Westlake Commercial Cleaning Company,INV-253258,5680.33
+2026-01-13,C1002,Bayview Medical Center Inc.,INV-253273,12398.29
+2026-01-13,C1008,Evergreen Senior Living Inc.,INV-253274,9152.0
+2026-01-13,C1002,Bayview Medical Center Inc.,INV-253283,5344.95
+2026-01-13,C1003,Cardinal Hospitality Group LLC,INV-253334,40937.07
+2026-01-13,C1011,Garfield Industrial Company,INV-253363,12098.92
+2026-01-13,C1015,Heritage Food Services Inc.,INV-253366,4991.41
+2026-01-13,C1025,Oak Ridge Office Parks,INV-253429,23057.26
+2026-01-13,C1040,Youngstown Metal Works Inc.,INV-253448,8503.58
+2026-01-13,C1040,Youngstown Metal Works Inc.,INV-253449,10461.44
+2026-01-14,C1040,Youngstown Metal Works Inc.,INV-252426,6292.57
+2026-01-14,C1033,Summit Healthcare Group Inc.,see remit,9361.36
+2026-01-14,C1038,Westlake Commercial Cleaning Company,INV-253259,11192.74
+2026-01-14,C1026,Parma Community College,INV-253327,9433.07
+2026-01-14,C1002,Bayview Medical Center Inc.,INV-253333,15731.89
+2026-01-14,C1026,Parma Community College,INV-253356,6370.36
+2026-01-14,C1040,Youngstown Metal Works Inc.,INV-253373,6085.99
+2026-01-14,C1025,Oak Ridge Office Parks,INV-253407,5855.46
+2026-01-14,C1025,Oak Ridge Office Parks,INV-253430,4712.87
+2026-01-14,C1035,Twinsburg Industrial Park LLC,INV-253482,8870.01
+2026-01-14,C1029,Riverside Fitness Clubs LLC,INV-253490,42306.16
+2026-01-14,C1040,Youngstown Metal Works Inc.,INV-253496,3019.6
+2026-01-15,C1036,University Circle Services,INV-253240,6413.46
+2026-01-15,C1036,University Circle Services,INV-253241,10891.78
+2026-01-15,C1018,Kent Valley Hospital,INV-253315,14192.82
+2026-01-15,C1002,Bayview Medical Center Inc.,INV-253346,3212.35
+2026-01-15,C1011,Garfield Industrial Company,INV-253417,11584.74
+2026-01-15,C1030,Sandusky Marine and Supply,INV-253538,17435.94
+2026-01-16,C1022,Medina Auto Group,INV-253324,6292.24
+2026-01-16,C1038,Westlake Commercial Cleaning Company,see remit,8705.87
+2026-01-16,C1022,Medina Auto Group,INV-253381,10828.84
+2026-01-16,C1008,Evergreen Senior Living Inc.,INV-253393,10386.44
+2026-01-16,C1035,Twinsburg Industrial Park LLC,INV-253401,35106.11
+2026-01-16,C1010,Forest City Hotels and Resorts,INV-253405,10382.55
+2026-01-16,C1040,Youngstown Metal Works Inc.,INV-253438,8951.33
+2026-01-16,C1025,Oak Ridge Office Parks,INV-253477,10312.98
+2026-01-16,C1025,Oak Ridge Office Parks,INV-253488,40890.26
+2026-01-19,C1002,Bayview Medical Center Inc.,INV-253306,13756.23
+2026-01-19,C1002,Bayview Medical Center Inc.,INV-253307,23011.73
+2026-01-19,C1031,Shaker Square Retail Partners,INV-253330,8894.55
+2026-01-19,C1002,Bayview Medical Center Inc.,INV-253332,32442.28
+2026-01-19,C1033,Summit Healthcare Group Inc.,INV-253342,4296.66
+2026-01-19,C1018,Kent Valley Hospital,INV-253354,5149.26
+2026-01-19,C1015,Heritage Food Services Inc.,INV-253396,8447.07
+2026-01-19,C1022,Medina Auto Group,INV-253398,2591.45
+2026-01-19,C1004,Cedar Point Facility Services,INV-253415,19433.43
+2026-01-19,C1038,Westlake Commercial Cleaning Company,see remit,6475.98
+2026-01-19,C1038,Westlake Commercial Cleaning Company,INV-253434,5861.34
+2026-01-19,C1040,Youngstown Metal Works Inc.,INV-253437,14857.45
+2026-01-19,C1025,Oak Ridge Office Parks,INV-253451,29567.6
+2026-01-19,C1027,Pinnacle Building Services Inc.,INV-253459,10689.69
+2026-01-19,C1035,Twinsburg Industrial Park LLC,INV-253463,2407.86
+2026-01-19,C1040,Youngstown Metal Works Inc.,INV-253468,7734.59
+2026-01-19,C1027,Pinnacle Building Services Inc.,INV-253479,9382.71
+2026-01-19,C1029,Riverside Fitness Clubs LLC,INV-253506,15686.56
+2026-01-19,C1004,Cedar Point Facility Services,INV-253510,20931.19
+2026-01-19,C1027,Pinnacle Building Services Inc.,INV-253537,18275.93
+2026-01-19,C1005,Clearwater Janitorial Company,INV-253556,1317.3
+2026-01-19,C1012,Great Lakes Logistics Inc.,INV-253558,4328.19
+2026-01-19,C1027,Pinnacle Building Services Inc.,INV-253562,2422.43
+2026-01-19,C1030,Sandusky Marine and Supply,INV-253573,11961.57
+2026-01-20,C1036,University Circle Services,INV-252614,1911.86
+2026-01-20,C1033,Summit Healthcare Group Inc.,INV-253201,4258.98
+2026-01-20,C1033,Summit Healthcare Group Inc.,INV-253319,17038.84
+2026-01-20,C1015,Heritage Food Services Inc.,INV-253338,13032.16
+2026-01-20,C1026,Parma Community College,INV-253357,18008.93
+2026-01-20,C1008,Evergreen Senior Living Inc.,INV-253394,6507.03
+2026-01-20,C1003,Cardinal Hospitality Group LLC,INV-253426,6868.78
+2026-01-20,C1035,Twinsburg Industrial Park LLC,INV-253462,16546.35
+2026-01-20,C1040,Youngstown Metal Works Inc.,INV-253519,6034.48
+2026-01-21,C1015,Heritage Food Services Inc.,INV-253337,7689.65
+2026-01-21,C1008,Evergreen Senior Living Inc.,INV-253374,4571.76
+2026-01-21,C1009,Fairlawn Public Schools,INV-253375,4632.15
+2026-01-21,C1018,Kent Valley Hospital,INV-253397,10378.29
+2026-01-21,C1012,Great Lakes Logistics Inc.,INV-253487,3136.17
+2026-01-21,C1035,Twinsburg Industrial Park LLC,INV-253517,5034.51
+2026-01-21,C1011,Garfield Industrial Company,INV-253522,7545.02
+2026-01-21,C1011,Garfield Industrial Company,INV-253544,8241.01
+2026-01-21,C1023,Midwest Stadium Services Inc.,INV-253560,7868.16
+2026-01-22,C1038,Westlake Commercial Cleaning Company,INV-253402,12756.23
+2026-01-22,C1012,Great Lakes Logistics Inc.,INV-253418,20578.89
+2026-01-22,C1001,Allegheny Property Management LLC,INV-253425,3517.58
+2026-01-22,C1040,Youngstown Metal Works Inc.,INV-253446,1804.38
+2026-01-22,C1040,Youngstown Metal Works Inc.,INV-253447,9377.62
+2026-01-22,C1011,Garfield Industrial Company,INV-253473,1866.28
+2026-01-22,C1025,Oak Ridge Office Parks,INV-253504,3494.87
+2026-01-22,C1001,Allegheny Property Management LLC,INV-253529,23908.09
+2026-01-22,C1040,Youngstown Metal Works Inc.,INV-253540,11827.79
+2026-01-23,C1040,Youngstown Metal Works Inc.,INV-252319,4561.45
+2026-01-23,C1031,Shaker Square Retail Partners,INV-253299,4792.87
+2026-01-23,C1036,University Circle Services,INV-253344,8274.34
+2026-01-23,C1011,Garfield Industrial Company,INV-253512,5813.57
+2026-01-26,C1036,University Circle Services,INV-253239,11134.73
+2026-01-26,C1036,University Circle Services,INV-253256,5680.32
+2026-01-26,C1036,University Circle Services,INV-253291,9906.53
+2026-01-26,C1033,Summit Healthcare Group Inc.,INV-253320,4528.67
+2026-01-26,C1032,Stark County Services,INV-253400,9116.52
+2026-01-26,C1002,Bayview Medical Center Inc.,INV-253413,1936.64
+2026-01-26,C1029,Riverside Fitness Clubs LLC,INV-253432,16585.39
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253435,7102.05
+2026-01-26,C1040,Youngstown Metal Works Inc.,INV-253436,12548.8
+2026-01-26,C1026,Parma Community College,INV-253441,5490.29
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253444,3200.61
+2026-01-26,C1040,Youngstown Metal Works Inc.,INV-253455,9774.07
+2026-01-26,C1035,Twinsburg Industrial Park LLC,INV-253464,4066.96
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253466,14455.19
+2026-01-26,C1040,Youngstown Metal Works Inc.,INV-253467,21767.77
+2026-01-26,C1016,Highland Manufacturing Company,INV-253474,9589.89
+2026-01-26,C1018,Kent Valley Hospital,INV-253475,10323.76
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253483,44760.08
+2026-01-26,C1038,Westlake Commercial Cleaning Company,see remit,14227.38
+2026-01-26,C1010,Forest City Hotels and Resorts,INV-253486,5727.38
+2026-01-26,C1029,Riverside Fitness Clubs LLC,INV-253491,7295.98
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253495,6908.1
+2026-01-26,C1011,Garfield Industrial Company,INV-253498,6823.16
+2026-01-26,C1014,Harborview Apartments LLC,INV-253500,6416.46
+2026-01-26,C1020,Lorain Distribution Company,INV-253503,6140.4
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253509,9255.75
+2026-01-26,C1035,Twinsburg Industrial Park LLC,INV-253526,4313.72
+2026-01-26,C1002,Bayview Medical Center Inc.,INV-253554,6164.66
+2026-01-26,C1027,Pinnacle Building Services Inc.,INV-253571,2486.05
+2026-01-26,C1034,Tri-State Warehouse Company,INV-253575,1937.97
+2026-01-26,C1038,Westlake Commercial Cleaning Company,INV-253579,3262.66
+2026-01-27,C1002,Bayview Medical Center Inc.,INV-253361,10516.01
+2026-01-27,C1031,Shaker Square Retail Partners,INV-253442,2921.21
+2026-01-27,C1031,Shaker Square Retail Partners,INV-253443,11072.47
+2026-01-27,C1038,Westlake Commercial Cleaning Company,INV-253485,10976.63
+2026-01-27,C1038,Westlake Commercial Cleaning Company,INV-253494,45363.64
+2026-01-27,C1003,Cardinal Hospitality Group LLC,INV-253521,5023.71
+2026-01-28,C1029,Riverside Fitness Clubs LLC,INV-253548,4457.48
+2026-01-29,C1033,Summit Healthcare Group Inc.,INV-253384,16589.23
+2026-01-29,C1013,Hamilton County Services,INV-253440,978.73
+2026-01-30,C1018,Kent Valley Hospital,INV-253379,7991.32
+2026-01-30,C1019,Lakeshore Cleaning Services Inc.,INV-253380,16278.33
+2026-01-30,C1036,University Circle Services,INV-253410,5536.29
+2026-01-30,C1038,Westlake Commercial Cleaning Company,INV-253445,19490.14
+2026-01-30,C1002,Bayview Medical Center Inc.,INV-253456,2875.11
+2026-01-30,C1011,Garfield Industrial Company,INV-253511,10799.83
+2026-01-30,C1040,Youngstown Metal Works Inc.,INV-253528,10245.42
+2026-01-30,C1040,Youngstown Metal Works Inc.,INV-253553,8711.65
+2026-01-30,C1003,Cardinal Hospitality Group LLC,INV-253555,13682.77
+2026-01-30,C1029,Riverside Fitness Clubs LLC,INV-253572,9094.48
+2026-01-30,C1018,Kent Valley Hospital,INV-260192,22929.01
+2026-01-30,C1027,Pinnacle Building Services Inc.,INV-260034,17235.83
+2026-01-30,C1028,Portage Cold Storage Company,INV-260063,15979.1
+2026-01-30,C1011,Garfield Industrial Company,INV-260053,14566.03
+2026-01-30,C1029,Riverside Fitness Clubs LLC,INV-260383,5682.84
+2026-01-30,C1039,Willoughby Tech Center,INV-260405,26059.71
+2026-02-02,C1036,University Circle Services,INV-253322,4411.82
+2026-02-02,C1036,University Circle Services,INV-253386,3014.26
+2026-02-02,C1033,Summit Healthcare Group Inc.,INV-253421,4448.36
+2026-02-02,C1026,Parma Community College,INV-253452,2339.85
+2026-02-02,C1038,Westlake Commercial Cleaning Company,see remit,12596.43
+2026-02-02,C1002,Bayview Medical Center Inc.,INV-253469,75267.68
+2026-02-02,C1018,Kent Valley Hospital,INV-253476,20717.66
+2026-02-02,C1035,Twinsburg Industrial Park LLC,INV-253508,6380.02
+2026-02-02,C1031,Shaker Square Retail Partners,INV-253525,5072.58
+2026-02-02,C1002,Bayview Medical Center Inc.,INV-253530,2662.69
+2026-02-02,C1008,Evergreen Senior Living Inc.,INV-253543,9620.2
+2026-02-02,C1014,Harborview Apartments LLC,INV-253545,8895.72
+2026-02-02,C1031,Shaker Square Retail Partners,INV-253549,3292.12
+2026-02-02,C1026,Parma Community College,INV-253561,9874.45
+2026-02-02,C1018,Kent Valley Hospital,INV-253568,5371.61
+2026-02-02,C1025,Oak Ridge Office Parks,INV-253570,11809.92
+2026-02-02,C1020,Lorain Distribution Company,INV-260021,28492.59
+2026-02-02,C1016,Highland Manufacturing Company,INV-260384,2743.81
+2026-02-03,C1022,Medina Auto Group,INV-253457,3739.65
+2026-02-03,C1002,Bayview Medical Center Inc.,INV-253472,7997.34
+2026-02-03,C1018,Kent Valley Hospital,INV-253514,2902.23
+2026-02-03,C1022,Medina Auto Group,INV-253534,16152.83
+2026-02-03,C1010,Forest City Hotels and Resorts,INV-253557,53719.44
+2026-02-03,C1018,Kent Valley Hospital,INV-260420,14322.7
+2026-02-03,C1029,Riverside Fitness Clubs LLC,INV-260124,18477.27
+2026-02-04,C1002,Bayview Medical Center Inc.,INV-253404,9571.47
+2026-02-04,C1002,Bayview Medical Center Inc.,INV-253520,5573.13
+2026-02-04,C1038,Westlake Commercial Cleaning Company,INV-253580,6201.55
+2026-02-04,C1011,Garfield Industrial Company,INV-260344,20094.17
+2026-02-04,C1012,Great Lakes Logistics Inc.,INV-260246,15021.04
+2026-02-04,C1022,Medina Auto Group,INV-260391,9488.53
+2026-02-04,C1012,Great Lakes Logistics Inc.,INV-260100,28963.89
+2026-02-04,C1034,Tri-State Warehouse Company,INV-260154,15533.54
+2026-02-05,C1036,University Circle Services,INV-253454,3848.25
+2026-02-05,C1026,Parma Community College,INV-253458,16168.15
+2026-02-05,C1015,Heritage Food Services Inc.,INV-253501,3598.11
+2026-02-05,C1022,Medina Auto Group,INV-253523,2067.2
+2026-02-05,C1017,Ironwood Property Services,INV-253531,5734.85
+2026-02-05,C1026,Parma Community College,INV-253535,10794.08
+2026-02-05,C1013,Hamilton County Services,INV-260361,3018.37
+2026-02-05,C1019,Lakeshore Cleaning Services Inc.,INV-260240,3823.51
+2026-02-05,C1014,Harborview Apartments LLC,INV-260387,22044.14
+2026-02-05,C1035,Twinsburg Industrial Park LLC,INV-260164,6669.98
+2026-02-05,C1012,Great Lakes Logistics Inc.,INV-260155,25718.76
+2026-02-05,C1036,University Circle Services,INV-260015,7401.81
+2026-02-06,C1036,University Circle Services,INV-253423,8302.31
+2026-02-06,C1033,Summit Healthcare Group Inc.,INV-253493,15109.73
+2026-02-06,C1018,Kent Valley Hospital,INV-253502,6095.94
+2026-02-06,C1026,Parma Community College,INV-253524,2542.02
+2026-02-06,C1038,Westlake Commercial Cleaning Company,INV-253527,4231.84
+2026-02-06,C1014,Harborview Apartments LLC,INV-253559,49833.51
+2026-02-06,C1035,Twinsburg Industrial Park LLC,see remit,2413.04
+2026-02-06,C1030,Sandusky Marine and Supply,INV-260288,9135.67
+2026-02-06,C1039,Willoughby Tech Center,INV-260058,26994.21
+2026-02-06,C1029,Riverside Fitness Clubs LLC,INV-260435,5495.21
+2026-02-06,C1036,University Circle Services,INV-260315,23076.19
+2026-02-06,C1014,Harborview Apartments LLC,INV-260177,4927.18
+2026-02-06,C1029,Riverside Fitness Clubs LLC,INV-260055,11364.29
+2026-02-06,C1013,Hamilton County Services,INV-260165,19040.3
+2026-02-06,C1035,Twinsburg Industrial Park LLC,INV-260197,25603.91
+2026-02-06,C1014,Harborview Apartments LLC,INV-260160,24823.0
+2026-02-06,C1014,Harborview Apartments LLC,INV-260379,8859.08
+2026-02-06,C1034,Tri-State Warehouse Company,INV-260149,11548.56
+2026-02-06,C1036,University Circle Services,INV-260412,24085.32
+2026-02-06,C1037,Valley View Hotels Inc.,INV-260146,5464.69
+2026-02-06,C1011,Garfield Industrial Company,INV-260036,22725.6
+2026-02-06,C1019,Lakeshore Cleaning Services Inc.,INV-260373,26302.16
+2026-02-06,C1038,Westlake Commercial Cleaning Company,INV-260243,15437.14
+2026-02-06,C1039,Willoughby Tech Center,INV-260166,22407.77
+2026-02-09,C1036,University Circle Services,INV-252773,2182.04
+2026-02-09,C1026,Parma Community College,INV-253431,11044.01
+2026-02-09,C1033,Summit Healthcare Group Inc.,INV-253433,46161.42
+2026-02-09,C1002,Bayview Medical Center Inc.,INV-253471,20241.39
+2026-02-09,C1032,Stark County Services,see remit,19661.05
+2026-02-09,C1033,Summit Healthcare Group Inc.,INV-253516,5282.21
+2026-02-09,C1022,Medina Auto Group,INV-253547,19661.5
+2026-02-09,C1038,Westlake Commercial Cleaning Company,INV-253551,13569.42
+2026-02-09,C1029,Riverside Fitness Clubs LLC,INV-260026,2143.6
+2026-02-09,C1012,Great Lakes Logistics Inc.,INV-260230,25941.56
+2026-02-09,C1025,Oak Ridge Office Parks,INV-260206,10734.49
+2026-02-09,C1023,Midwest Stadium Services Inc.,INV-260277,980.37
+2026-02-09,C1024,North Coast Restaurants LLC,INV-260100,14717.1
+2026-02-09,C1032,Stark County Services,INV-260073,22757.68
+2026-02-09,C1021,Maple Heights Facilities LLC,INV-260439,11107.86
+2026-02-10,C1026,Parma Community College,INV-253489,3886.85
+2026-02-10,C1026,Parma Community College,INV-253536,3842.53
+2026-02-10,C1025,Oak Ridge Office Parks,INV-260362,1672.98
+2026-02-10,C1030,Sandusky Marine and Supply,INV-260125,18504.72
+2026-02-10,C1018,Kent Valley Hospital,INV-260200,12776.4
+2026-02-10,C1009,Fairlawn Public Schools,INV-260378,28951.26
+2026-02-11,C1002,Bayview Medical Center Inc.,INV-253470,3532.37
+2026-02-11,C1022,Medina Auto Group,INV-253533,6736.65
+2026-02-11,C1040,Youngstown Metal Works Inc.,INV-253552,18002.63
+2026-02-11,C1023,Midwest Stadium Services Inc.,INV-260073,19582.3
+2026-02-11,C1017,Ironwood Property Services,INV-260023,21276.36
+2026-02-11,C1035,Twinsburg Industrial Park LLC,INV-260428,27793.87
+2026-02-11,C1034,Tri-State Warehouse Company,INV-260394,12907.88
+2026-02-11,C1037,Valley View Hotels Inc.,INV-260447,26849.35
+2026-02-12,C1022,Medina Auto Group,INV-253569,9796.04
+2026-02-12,C1012,Great Lakes Logistics Inc.,INV-260439,6706.24
+2026-02-12,C1031,Shaker Square Retail Partners,INV-260255,10178.7
+2026-02-12,C1030,Sandusky Marine and Supply,INV-260269,15378.35
+2026-02-13,C1026,Parma Community College,INV-253505,6870.64
+2026-02-13,C1026,Parma Community College,INV-253515,7290.53
+2026-02-13,C1002,Bayview Medical Center Inc.,INV-253565,1398.77
+2026-02-13,C1012,Great Lakes Logistics Inc.,INV-260185,22425.45
+2026-02-13,C1021,Maple Heights Facilities LLC,INV-260309,11665.97
+2026-02-13,C1012,Great Lakes Logistics Inc.,INV-260311,3595.31
+2026-02-13,C1034,Tri-State Warehouse Company,INV-260441,19895.36
+2026-02-13,C1039,Willoughby Tech Center,INV-260308,8829.43
+2026-02-13,C1026,Parma Community College,INV-260184,2634.43
+2026-02-13,C1018,Kent Valley Hospital,INV-260206,17147.0
+2026-02-13,C1011,Garfield Industrial Company,INV-260210,11948.49
+2026-02-13,C1016,Highland Manufacturing Company,INV-260002,25704.07
+2026-02-13,C1007,Eastgate Office Partners,INV-260097,22329.76
+2026-02-13,C1009,Fairlawn Public Schools,INV-260354,27169.94
+2026-02-13,C1040,Youngstown Metal Works Inc.,INV-260233,19485.13
+2026-02-13,C1033,Summit Healthcare Group Inc.,INV-260369,18755.05
+2026-02-16,C1040,Youngstown Metal Works Inc.,INV-252735,13929.44
+2026-02-16,C1033,Summit Healthcare Group Inc.,INV-253507,10838.7
+2026-02-16,C1036,University Circle Services,INV-253518,27321.06
+2026-02-16,C1019,Lakeshore Cleaning Services Inc.,INV-253532,14803.56
+2026-02-16,C1002,Bayview Medical Center Inc.,INV-253541,15495.23
+2026-02-16,C1036,University Circle Services,INV-253563,6026.15
+2026-02-16,C1038,Westlake Commercial Cleaning Company,INV-253578,9100.29
+2026-02-16,C1009,Fairlawn Public Schools,INV-260346,3982.16
+2026-02-16,C1023,Midwest Stadium Services Inc.,INV-260022,15185.13
+2026-02-16,C1017,Ironwood Property Services,INV-260205,2277.72
+2026-02-16,C1008,Evergreen Senior Living Inc.,INV-260064,7682.96
+2026-02-17,C1036,University Circle Services,INV-252527,18033.26
+2026-02-17,C1022,Medina Auto Group,INV-253546,7132.02
+2026-02-17,C1024,North Coast Restaurants LLC,INV-260025,20807.97
+2026-02-17,C1008,Evergreen Senior Living Inc.,INV-260173,3272.59
+2026-02-17,C1017,Ironwood Property Services,INV-260049,2025.14
+2026-02-17,C1025,Oak Ridge Office Parks,INV-260338,24301.48
+2026-02-18,C1015,Heritage Food Services Inc.,INV-253513,7892.37
+2026-02-18,C1032,Stark County Services,INV-253550,9876.77
+2026-02-18,C1002,Bayview Medical Center Inc.,see remit,1650.77
+2026-02-19,C1012,Great Lakes Logistics Inc.,INV-260413,25099.98
+2026-02-19,C1021,Maple Heights Facilities LLC,INV-260027,7596.08
+2026-02-19,C1010,Forest City Hotels and Resorts,INV-260142,11621.02
+2026-02-20,C1036,University Circle Services,INV-253539,13665.57
+2026-02-20,C1008,Evergreen Senior Living Inc.,INV-253567,53186.78
+2026-02-20,C1012,Great Lakes Logistics Inc.,INV-260431,25177.61
+2026-02-20,C1036,University Circle Services,INV-260249,17580.75
+2026-02-20,C1021,Maple Heights Facilities LLC,INV-260163,26801.26
+2026-02-20,C1019,Lakeshore Cleaning Services Inc.,INV-260120,8977.85
+2026-02-20,C1021,Maple Heights Facilities LLC,INV-260156,11848.57
+2026-02-20,C1019,Lakeshore Cleaning Services Inc.,INV-260417,10688.85
+2026-02-20,C1010,Forest City Hotels and Resorts,INV-260424,27270.83
+2026-02-20,C1019,Lakeshore Cleaning Services Inc.,INV-260139,7929.49
+2026-02-20,C1035,Twinsburg Industrial Park LLC,INV-260123,23164.22
+2026-02-20,C1032,Stark County Services,INV-260296,11065.25
+2026-02-23,C1002,Bayview Medical Center Inc.,INV-253542,55047.54
+2026-02-23,C1002,Bayview Medical Center Inc.,INV-253566,4821.92
+2026-02-23,C1033,Summit Healthcare Group Inc.,INV-253574,5802.52
+2026-02-23,C1036,University Circle Services,see remit,30039.68
+2026-02-23,C1030,Sandusky Marine and Supply,INV-260092,3310.37
+2026-02-23,C1033,Summit Healthcare Group Inc.,INV-260352,9888.51
+2026-02-24,C1008,Evergreen Senior Living Inc.,INV-260388,9594.66
+2026-02-24,C1009,Fairlawn Public Schools,INV-260370,27246.19
+2026-02-24,C1013,Hamilton County Services,INV-260265,29288.49
+2026-02-24,C1030,Sandusky Marine and Supply,INV-260071,15442.54
+2026-02-24,C1013,Hamilton County Services,INV-260039,29914.13
+2026-02-24,C1013,Hamilton County Services,INV-260025,6600.58
+2026-02-24,C1009,Fairlawn Public Schools,INV-260426,18520.44
+2026-02-25,C1040,Youngstown Metal Works Inc.,INV-252631,5084.76
+2026-02-25,C1036,University Circle Services,INV-252672,8767.92
+2026-02-25,C1040,Youngstown Metal Works Inc.,INV-252718,12060.33
+2026-02-25,C1034,Tri-State Warehouse Company,INV-260450,8587.89
+2026-02-25,C1010,Forest City Hotels and Resorts,INV-260418,1534.31
+2026-02-25,C1028,Portage Cold Storage Company,INV-260019,15942.68
+2026-02-25,C1020,Lorain Distribution Company,INV-260391,7943.17
+2026-02-25,C1023,Midwest Stadium Services Inc.,INV-260283,3468.88
+2026-02-25,C1034,Tri-State Warehouse Company,INV-260281,6857.21
+2026-02-25,C1012,Great Lakes Logistics Inc.,INV-260228,29907.47
+2026-02-25,C1031,Shaker Square Retail Partners,INV-260443,29378.01
+2026-02-26,C1026,Parma Community College,INV-260203,27474.65
+2026-02-26,C1019,Lakeshore Cleaning Services Inc.,INV-260166,22061.64
+2026-02-26,C1039,Willoughby Tech Center,INV-260441,6968.98
+2026-02-26,C1012,Great Lakes Logistics Inc.,INV-260394,17209.38
+2026-02-27,C1027,Pinnacle Building Services Inc.,INV-260028,16292.69
+2026-02-27,C1011,Garfield Industrial Company,INV-260244,18828.14
+2026-02-27,C1013,Hamilton County Services,INV-260117,29625.36
+2026-02-27,C1024,North Coast Restaurants LLC,INV-260003,8532.11
+2026-02-27,C1034,Tri-State Warehouse Company,INV-260434,15042.58
+2026-02-27,C1033,Summit Healthcare Group Inc.,INV-260076,4290.67
+2026-02-27,C1036,University Circle Services,INV-260089,16166.08
+2026-02-27,C1036,University Circle Services,INV-260211,22025.97
+2026-02-27,C1014,Harborview Apartments LLC,INV-260186,24302.29
+2026-02-27,C1029,Riverside Fitness Clubs LLC,INV-260307,15744.5
+2026-02-27,C1007,Eastgate Office Partners,INV-260025,28519.78

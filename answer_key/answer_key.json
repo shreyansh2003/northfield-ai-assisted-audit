@@ -1,0 +1,112 @@
+{
+  "seed": 641907,
+  "company": "Northfield Supply Co. (fictional)",
+  "recorded_totals": {
+    "revenue": 39862443.61,
+    "ar_gross": 4737696.16,
+    "allowance": 47400.0,
+    "ap": 2263256.84
+  },
+  "errors": [
+    {
+      "id": "E1",
+      "type": "Revenue cutoff",
+      "description": "Invoices dated 12/29-12/31/2025 that shipped in January 2026 (FOB shipping point). Revenue and A/R overstated; COGS understated and inventory understated by ~74.5% of the amount. Management said all December orders shipped before year-end. The customers paid in Jan/Feb, so subsequent receipts alone do NOT catch this.",
+      "amount": 158067.83,
+      "direction": "Revenue and A/R overstated",
+      "match_refs": [
+        "INV-253542",
+        "INV-253559",
+        "INV-253567"
+      ],
+      "where": "Sales ledger Ship Dt column; WP1 cutoff test",
+      "standard": "AU-C 330 / AU-C 500"
+    },
+    {
+      "id": "E2",
+      "type": "Duplicate invoice",
+      "description": "INV-253100 posted twice in the sales ledger. The payment was applied to the first posting, so the duplicate sits open in the aging with no subsequent receipt.",
+      "amount": 56820.17,
+      "direction": "Revenue and A/R overstated",
+      "match_refs": [
+        "INV-253100"
+      ],
+      "where": "Sales ledger duplicate test; WP2 subsequent receipts",
+      "standard": "AU-C 500"
+    },
+    {
+      "id": "E3",
+      "type": "Unexplained revenue spike / possible fictitious sale",
+      "description": "September revenue spike from one invoice to Keystone Facilities Group: no ship date, memo 'Q-end - per J. Marsh', customer not in customer master, never paid. Management said there were no unusual transactions. Treat as a fraud-risk indicator (presumed revenue risk).",
+      "amount": 642000.0,
+      "direction": "Revenue and A/R overstated",
+      "match_refs": [
+        "INV-252650",
+        "KEYSTONE FACILITIES GROUP"
+      ],
+      "where": "WP1 monthly analytics; customer master match; WP2 aging",
+      "standard": "AU-C 520 / AU-C 240"
+    },
+    {
+      "id": "E4",
+      "type": "Allowance for doubtful accounts understated",
+      "description": "Delmar Janitorial Services LLC balance of $154,514.05 is entirely over 120 days, on credit hold, and has no subsequent receipts. The flat 1% allowance does not cover it. Understatement is approximately the Delmar balance less the 1% general reserve already attributable to it.",
+      "amount": 152968.91,
+      "direction": "Allowance and bad debt expense understated",
+      "match_refs": [
+        "DELMAR"
+      ],
+      "where": "WP2 aging / allowance analysis",
+      "standard": "AU-C 540 (accounting estimates)"
+    },
+    {
+      "id": "E5",
+      "type": "Unrecorded liability",
+      "description": "Midstate Freight Lines invoice MID-55837 dated 12/19/2025 for December 2025 freight, paid 01/16/2026 (ACH5033), not on the 12/31 A/P listing. The November Midstate invoice IS on the listing (decoy).",
+      "amount": 88519.11,
+      "direction": "A/P and freight-out expense understated",
+      "match_refs": [
+        "MID-55837",
+        "ACH5033"
+      ],
+      "where": "WP3 search for unrecorded liabilities",
+      "standard": "AU-C 330 / AU-C 560"
+    },
+    {
+      "id": "E6",
+      "type": "Data-integrity traps",
+      "description": "Sales ledger contains 12 monthly subtotal rows totaling $39,862,443.61 (a naive SUM doubles revenue); 325 ledger rows use customer-name variants; mixed date formats and '$' amounts; Keystone Facilities Group does not exist in the customer master; aging report has a header block and a GRAND TOTAL row.",
+      "amount": 0,
+      "direction": "No misstatement by itself; causes wrong analysis if missed",
+      "match_refs": [],
+      "match_keywords": [
+        "subtotal",
+        "name variant",
+        "customer master",
+        "date format",
+        "grand total"
+      ],
+      "min_keyword_hits": 2,
+      "where": "Normalization step",
+      "standard": "AU-C 500 (reliability of information)"
+    }
+  ],
+  "bonus_not_scored": [
+    {
+      "id": "B1",
+      "type": "Trivial unrecorded liability",
+      "description": "Northpoint IT Services invoice NIT-2611 dated 01/05/2026 for December 2025 IT support ($3,903.09). Below the clearly-trivial threshold; noting it shows care.",
+      "amount": 3903.09,
+      "match_refs": [
+        "NIT-2611"
+      ]
+    }
+  ],
+  "decoys": [
+    "Slow-paying customers with 61-120 day items that were collected in Jan/Feb 2026.",
+    "A few small (<$5,000) Aug-Sep items still open with no receipts (below trivial).",
+    "Two large late-December invoices that shipped in December (not cutoff errors).",
+    "Midstate November invoice on the A/P listing, paid in January (properly accrued).",
+    "January rent, insurance, staffing and IT invoices for January services."
+  ]
+}

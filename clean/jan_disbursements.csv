@@ -1,0 +1,59 @@
+check_no,paid_date,vendor,vendor_inv,inv_date,amount,description
+21400,2026-01-02,Keller Dispenser Systems,KEL-50970,2025-11-27,33046.34,Inventory purchase
+ACH5001,2026-01-02,Summit Trash Liner Co.,SUM-31770,2025-12-05,100165.92,Inventory purchase
+ACH5002,2026-01-02,CleanCo Manufacturing,CLE-52617,2025-11-26,95382.93,Inventory purchase
+ACH5003,2026-01-02,Buckeye Chemical Supply,BUC-26372,2025-11-26,36900.63,Inventory purchase
+21404,2026-01-02,Keller Dispenser Systems,KEL-72646,2025-12-05,43808.43,Inventory purchase
+21405,2026-01-02,Great Lakes Packaging LLC,GRE-98193,2025-11-24,27982.9,Inventory purchase
+ACH5006,2026-01-02,Lakeside Chemical Company,LAK-96175,2025-11-28,81690.43,Inventory purchase
+ACH5007,2026-01-02,CleanCo Manufacturing,CLE-59399,2025-11-28,14329.12,Inventory purchase
+21408,2026-01-02,Summit Trash Liner Co.,SUM-23889,2025-11-21,74154.97,Inventory purchase
+ACH5009,2026-01-02,Buckeye Chemical Supply,BUC-93469,2025-11-24,50582.99,Inventory purchase
+21410,2026-01-02,Nova Tissue Mills,NOV-59853,2025-11-21,28224.01,Inventory purchase
+ACH5011,2026-01-02,Buckeye Chemical Supply,BUC-24366,2025-11-26,95126.19,Inventory purchase
+21412,2026-01-02,Summit Trash Liner Co.,SUM-86463,2025-11-28,43714.07,Inventory purchase
+21413,2026-01-02,CleanCo Manufacturing,CLE-98318,2025-11-28,39706.4,Inventory purchase
+ACH5014,2026-01-02,Nova Tissue Mills,NOV-35178,2025-11-25,51502.97,Inventory purchase
+ACH5015,2026-01-02,Buckeye Chemical Supply,BUC-43933,2025-12-03,72906.72,Inventory purchase
+ACH5016,2026-01-02,Midstate Freight Lines,MID-13790,2025-11-21,68320.17,Freight - November 2025 outbound shipments
+ACH5017,2026-01-02,Crossroads Realty Partners,CRP-2026-01,2026-01-01,45000.0,Warehouse rent - January 2026
+21418,2026-01-05,Nova Tissue Mills,NOV-20508,2025-12-05,61148.57,Inventory purchase
+ACH5019,2026-01-06,Lakeside Chemical Company,LAK-58630,2025-12-02,49825.93,Inventory purchase
+ACH5020,2026-01-06,Summit Trash Liner Co.,SUM-23344,2025-12-05,77438.72,Inventory purchase
+ACH5021,2026-01-06,Hilltop Plastics Company,HIL-69604,2025-12-05,34293.46,Inventory purchase
+ACH5022,2026-01-07,Buckeye Chemical Supply,BUC-32555,2025-12-12,25903.28,Inventory purchase
+ACH5023,2026-01-07,Hilltop Plastics Company,HIL-28876,2025-12-12,61954.76,Inventory purchase
+ACH5024,2026-01-07,Nova Tissue Mills,NOV-69297,2025-12-08,20461.05,Inventory purchase
+ACH5025,2026-01-09,Beacon Benefits Insurance,BBI-1522,2026-01-02,11406.07,Group health premium - January 2026
+ACH5026,2026-01-12,Buckeye Chemical Supply,BUC-13337,2026-01-02,40791.22,Inventory purchase - January receipt
+21427,2026-01-15,CleanCo Manufacturing,CLE-22607,2025-12-17,33627.42,Inventory purchase
+ACH5028,2026-01-15,Lakeside Chemical Company,LAK-88603,2025-12-16,61201.08,Inventory purchase
+ACH5029,2026-01-16,Summit Trash Liner Co.,SUM-67115,2025-12-18,43271.26,Inventory purchase
+21430,2026-01-16,Lakeside Chemical Company,LAK-86273,2025-12-19,47001.96,Inventory purchase
+ACH5031,2026-01-16,CleanCo Manufacturing,CLE-56384,2025-12-23,24091.42,Inventory purchase
+21432,2026-01-16,Great Lakes Packaging LLC,GRE-42752,2025-12-17,33424.36,Inventory purchase
+ACH5033,2026-01-16,Midstate Freight Lines,MID-55837,2025-12-19,88519.11,Freight - December 2025 outbound shipments
+ACH5034,2026-01-16,Northpoint IT Services,NIT-2611,2026-01-05,3903.09,Managed IT support - December 2025
+ACH5035,2026-01-16,Summit Trash Liner Co.,SUM-69832,2026-01-08,47601.64,Inventory purchase - January receipt
+21436,2026-01-16,Premier Glove Supply,PRE-28014,2026-01-08,27308.89,Inventory purchase - January receipt
+ACH5037,2026-01-19,Keller Dispenser Systems,KEL-61352,2025-12-17,52363.75,Inventory purchase
+ACH5038,2026-01-19,Summit Trash Liner Co.,SUM-82891,2026-01-09,30719.26,Inventory purchase - January receipt
+ACH5039,2026-01-19,Apex Paper Products Inc.,APE-13337,2026-01-09,16560.84,Inventory purchase - January receipt
+ACH5040,2026-01-20,Great Lakes Packaging LLC,GRE-21692,2025-12-24,21127.88,Inventory purchase
+21441,2026-01-21,Great Lakes Packaging LLC,GRE-86550,2025-12-22,91664.51,Inventory purchase
+ACH5042,2026-01-21,Ohio Valley Power and Light,OHI-22430,2025-12-18,16207.72,Electric/gas - December 2025
+21443,2026-01-22,Apex Paper Products Inc.,APE-32699,2026-01-12,27634.48,Inventory purchase - January receipt
+ACH5044,2026-01-23,Great Lakes Packaging LLC,GRE-13334,2025-12-31,31547.83,Inventory purchase
+21445,2026-01-23,Buckeye Chemical Supply,BUC-61438,2026-01-15,32800.09,Inventory purchase - January receipt
+ACH5046,2026-01-23,Nova Tissue Mills,NOV-39245,2026-01-15,35816.63,Inventory purchase - January receipt
+ACH5047,2026-01-26,Wellman Staffing Group,WEL-99736,2025-12-26,26974.47,"Temp warehouse labor - weeks ending 12/19, 12/26"
+21448,2026-01-26,Keller Dispenser Systems,KEL-37137,2026-01-16,19368.48,Inventory purchase - January receipt
+ACH5049,2026-01-27,Northpoint IT Services,NIT-1367,2026-01-20,4115.72,Managed IT support - January 2026
+ACH5050,2026-01-28,CleanCo Manufacturing,CLE-79213,2025-12-25,18402.55,Inventory purchase
+21451,2026-01-29,Summit Trash Liner Co.,SUM-30851,2025-12-29,18332.79,Inventory purchase
+ACH5052,2026-01-29,Great Lakes Packaging LLC,GRE-13075,2025-12-26,12201.17,Inventory purchase
+ACH5053,2026-01-29,Wellman Staffing Group,WEL-13237,2026-01-23,10446.9,"Temp warehouse labor - weeks ending 1/9, 1/16"
+ACH5054,2026-01-30,CleanCo Manufacturing,CLE-44393,2025-12-29,52115.66,Inventory purchase
+ACH5055,2026-01-30,Nova Tissue Mills,NOV-28711,2025-12-29,22759.85,Inventory purchase
+21456,2026-01-30,Keller Dispenser Systems,KEL-52436,2025-12-31,92061.55,Inventory purchase
+ACH5057,2026-01-30,Lakeview Waste Hauling,LAK-48901,2025-12-31,2878.03,Waste hauling - December 2025

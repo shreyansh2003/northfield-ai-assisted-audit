@@ -1,0 +1,26 @@
+account,account_name,fs_line,wp_ref,cy_balance,py_balance
+1000,Cash - operating,Cash,C,1876236.16,1600000.0
+1100,Accounts receivable - trade,"Accounts receivable, net",WP2,4737696.16,4554536.48
+1150,Allowance for doubtful accounts,"Accounts receivable, net",WP2,-47400.0,-40000.0
+1200,Inventory,Inventory,D,5118657.44,4935658.39
+1300,Prepaid expenses,Prepaid expenses,E,160000.0,150000.0
+1500,Property and equipment,"Property and equipment, net",F,3100000.0,2800000.0
+1550,Accumulated depreciation,"Property and equipment, net",F,-1400000.0,-1100000.0
+2000,Accounts payable - trade,Accounts payable,WP3,-2263256.84,-1928577.18
+2100,Accrued liabilities,Accrued liabilities,WP3,-420000.0,-390000.0
+2150,Income taxes payable,Income taxes payable,G,-100000.0,-90000.0
+2200,Line of credit,Line of credit,H,-2866964.95,-3900000.0
+3000,Common stock,Equity,I,-500000.0,-500000.0
+3100,Retained earnings,Equity,I,-6091617.69,-5510583.6
+4000,"Sales, net",Net sales,WP1,-39862443.61,-36694843.82
+5000,Cost of goods sold,Cost of goods sold,D,29219230.49,27447743.18
+5100,Freight-out,Operating expenses,WP3,823629.32,770591.72
+6100,Salaries and wages,Operating expenses,J,6198417.82,5888496.93
+6200,Rent expense,Operating expenses,J,540000.0,510000.0
+6250,Utilities,Operating expenses,J,189269.66,183591.57
+6300,Depreciation expense,Operating expenses,F,319679.93,280000.0
+6350,Bad debt expense,Operating expenses,WP2,41879.04,38000.0
+6400,Insurance,Operating expenses,J,150453.93,144435.77
+6500,Office and general,Operating expenses,J,425023.23,412272.53
+7000,Interest expense,Interest expense,H,217059.82,245000.0
+8000,Income tax expense,Income tax expense,G,434450.09,193678.03
