@@ -73,14 +73,6 @@ An independent 22-point checklist raised four medium-severity notes:
 
 All four notes were addressed and cleared. The final workpapers describe the remaining evidence limitations rather than claiming more assurance than the available documents support.
 
-## What AI did and what remained a human responsibility
-
-AI assisted with data normalization, population analysis, formula-driven workpaper preparation, anomaly identification, audit-documentation drafting, reviewer checks, and failure analysis. The project also used AI to help create the scripts before the timed session.
-
-Human responsibility remained essential. The user directed the workflow, controlled when the sealed answer key could be opened, opened and recalculated the workbook in Excel, evaluated whether evidence was sufficient, required review notes to be resolved, and retained responsibility for the final conclusions and limitations.
-
-The main AI and tool failures are recorded in the `AI_Log` sheet. They include overstating analytical corroboration, overlooking an alternative completeness procedure, inferring receipt evidence too confidently, and ambiguous matching in the scoring script.
-
 ## Repository contents
 
 | Path | Purpose |
